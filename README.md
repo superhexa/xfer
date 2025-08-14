@@ -198,4 +198,4 @@ Contributions are welcome. Please:
 - Keep builds green and add tests where practical
 
 ## License
-Choose and add a license for your distribution (e.g., MIT/Apache‑2.0). If you are unsure, please consult the repository owner.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
