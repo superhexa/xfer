@@ -5,9 +5,7 @@
 [![Compression: zlib](https://img.shields.io/badge/compression-zlib-199900)](https://zlib.net/)
 [![OS: Linux](https://img.shields.io/badge/OS-Linux-1793D1?logo=linux)](https://kernel.org)
 
-
-<img width="1366" height="768" alt="2025-08-14-192353_hyprshot" src="https://github.com/user-attachments/assets/276e8036-f42f-46ac-9068-ba584f1d10b1" />
-
+<img width="1366" height="768" alt="2025-08-14-192353_hyprshot" src="https://github.com/user-attachments/assets/00600073-fb87-46c7-aef5-f7ba791ffd31" />
 
 XFER (aka SecureXfer) is a modern, end‑to‑end encrypted command‑line file transfer tool. It feels familiar like scp, but adds a beautiful UX, tunable runtime, metadata preservation, compression, integrity hooks, and a custom protocol designed for streaming performance.
 
